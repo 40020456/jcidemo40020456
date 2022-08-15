@@ -13,4 +13,8 @@ public class Calculator {
 		return a*b;
 	}
 	
+	public void cat() {
+		System.out.println("Cat!");
+	}
+	
 }
